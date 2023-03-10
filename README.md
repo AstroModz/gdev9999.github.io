@@ -16,7 +16,7 @@
 	</ul>
 	<h2>How to Use</h2>
 <ol>
-			<li>Go to the <a href="https://web-proxy-project.com">Web Proxy Project website</a>.</li>
+			<li>Go to the <a href="https://uv.aziaclient.xyz">Web Proxy Project website</a>.</li>
 			<li>Enter the URL you want to visit in the search bar.</li>
 			<li>Click the "Go" button.</li>
 	<li>Enjoy browsing the web anonymously and securely!</li>
